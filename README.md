@@ -1,6 +1,6 @@
 # Starter Template
 
-## Vue + Tailwind + Go + Google API
+## Vue + Tailwind + Go + Vertex AI API
 
 To run server:
 - Open terminal
