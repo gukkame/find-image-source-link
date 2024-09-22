@@ -1,6 +1,6 @@
 # Starter Template
 
-## Vue + Tailwind + Go + SQLite/PostgreSQL
+## Vue + Tailwind + Go + Google API
 
 To run server:
 - Open terminal
@@ -11,4 +11,4 @@ To run server:
 To run client side:
 - Open terminal
 - Navigate to ./client and run ```npm install``` and ```npm run dev```
-- Server should be now running on ```http://localhost:3000/```
+- Server should be now running on ```http://localhost:5173/```
